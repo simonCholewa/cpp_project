@@ -1,0 +1,6 @@
+﻿  Student.cpp
+C:\Users\szymo\Desktop\c++\project\project\Student.h(32,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  project.cpp
+C:\Users\szymo\Desktop\c++\project\project\Student.h(32,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  project.vcxproj -> C:\Users\szymo\Desktop\c++\project\x64\Debug\project.exe
